@@ -21,7 +21,7 @@ jupyter notebook main.ipynb
 pip3 install virtualenv
 ```
 
-# To deactivate the virutla environment
+# To deactivate the virutal environment
 ```bash
 deactivate
 ```
